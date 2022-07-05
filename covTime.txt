@@ -1,1 +1,0 @@
-int  time[Mission_size];     (In seconds)
